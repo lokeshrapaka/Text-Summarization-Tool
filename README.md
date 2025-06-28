@@ -42,18 +42,18 @@ HuggingFace's transformers library for abstractive models like T5 or BART, which
 1. Extractive Summarization
 This approach selects important sentences or phrases directly from the input. Techniques implemented include:
 
-Frequency-based summarization
-
-TextRank (graph-based ranking)
-
-Latent Semantic Analysis (LSA)
+        Frequency-based summarization
+        
+        TextRank (graph-based ranking)
+        
+        Latent Semantic Analysis (LSA)
 
 2. Abstractive Summarization
 This uses deep learning models to paraphrase and re-generate content in a more human-readable way. Implemented models include:
 
-BART (Bidirectional and Auto-Regressive Transformers)
-
-T5 (Text-To-Text Transfer Transformer)
+        BART (Bidirectional and Auto-Regressive Transformers)
+        
+        T5 (Text-To-Text Transfer Transformer)
 
 These models are capable of understanding the input context and generating entirely new sentences that convey the same meaning.
 
