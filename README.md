@@ -4,6 +4,7 @@ INTERN ID  : CT06DN379
 DOMAIN     : ARTIFICIAL INTELLIGENCE
 DURATION   : 6 WEEKS
 MENTOR     : NEELA SANTOSH
+
 # Text-Summarization-Tool
 
 Objective:
@@ -16,3 +17,6 @@ Outputs a brief summary using NLP methods like extractive or abstractive summari
 
 Tech Suggestions:
 Use libraries such as NLTK, SpaCy, Transformers (BART, T5), or sumy
+
+Output :
+![Image](https://github.com/user-attachments/assets/f179d14c-7203-47d6-8cfb-b89443bfed0a)
