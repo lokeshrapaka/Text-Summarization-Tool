@@ -70,4 +70,5 @@ User-friendly script with CLI-based input/output handling.
 
 Modular code with clearly defined functions and inline comments.
 Output :
+
 ![Image](https://github.com/user-attachments/assets/f179d14c-7203-47d6-8cfb-b89443bfed0a)
