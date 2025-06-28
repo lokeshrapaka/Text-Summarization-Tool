@@ -1,3 +1,5 @@
+# Text-Summarization-Tool
+
 COMPANY    : CODETECH IT SOLUTIONS
 
 NAME       : RAPAKA LOKESH
@@ -10,7 +12,6 @@ DURATION   : 6 WEEKS
 
 MENTOR     : NEELA SANTOSH
 
-# Text-Summarization-Tool
 
 Overview
 This repository contains the implementation of a Text Summarization Tool developed as part of the Artificial Intelligence Internship Program at Codetech IT Solutions. The goal of this task is to build a functional system that takes lengthy textual input—such as news articles, research papers, or blog posts—and produces a concise summary using Natural Language Processing (NLP) techniques. This project simulates how AI can assist in reducing reading time and improving information retrieval by extracting or generating key insights from verbose content.
@@ -69,6 +70,7 @@ Includes preprocessing steps like sentence segmentation, stopword removal, and t
 User-friendly script with CLI-based input/output handling.
 
 Modular code with clearly defined functions and inline comments.
+
 Output :
 
 ![Image](https://github.com/user-attachments/assets/f179d14c-7203-47d6-8cfb-b89443bfed0a)
